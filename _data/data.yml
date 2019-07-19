@@ -32,7 +32,7 @@ sidebar:
 career-profile:
     title: SUMMARY
     summary: |
-      Developer interested in web programming with focus on back-end web development. Previous work experience in the field of marketing, PR and journalism.
+      PHP developer interested in web programming with focus on back-end web development. Previous work experience 	 in the field of marketing, PR and journalism.
 
 education:
     - degree: Web programming
@@ -46,13 +46,11 @@ education:
 experiences:
     - role: Head of Digital Marketing
       time: 2018 - Present
-      title: Widewalls.ch
-      link: 'https://www.widewalls.ch/'
+      company: Widewalls.ch
 
     - role: Senior Database Editor
       time: 2014 - 2018
-      title: Widewalls.ch
-      link: 'https://www.widewalls.ch/'
+      company: Widewalls.ch
 
 projects:
     title: Projects
@@ -88,7 +86,7 @@ skills:
     toolset:
 
       - name: HTML5 & CSS3
-        level: 95%
+        level: 90%
 
       - name: PHP, Laravel, MySQL
         level: 75%
