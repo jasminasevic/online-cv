@@ -7,32 +7,24 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Jasmina Šević
+    tagline: Web Developer
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
+    email: jasminasevic@yahoo.com
+    phone: +381 63 8908 137
+    website: 
     linkedin: alandoe
-    github: sharu725
+    github: jasminasevic
     gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-
+    
     languages:
-      - idiom: English
+      - idiom: Serbian
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Advanced
 
-      - idiom: Spanish
-        level: Professional
 
     interests:
       - item: Climbing
@@ -45,42 +37,18 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: SUMMARY
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      PHP developer interested in web programming with focus on back-end web development. Previous work experience 	 in the field of marketing, PR and journalism.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+    - degree: Web programming
+      university: ICT College of Applied Studies, Internet Technologies Module
+      time: 2015 - Present
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+    - degree: BA in Journalism
+      university: Faculty of Political Science, Department of Journalism and Communication Studies, University of Belgrade
+      time: 2008 - 2013
 
 experiences:
     - role: Lead Developer
