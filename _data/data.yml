@@ -85,23 +85,24 @@ skills:
 
     toolset:
 
-      - name: HTML5 & CSS3
-        level: 90%
+      - name: HTML5 & CSS3 
+      - name: <i class="fas fa-star"></i><i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> 
 
       - name: PHP, Laravel, MySQL
-        level: 75%
+      - name: <i class="fas fa-star"></i><i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> 
 
       - name: Javascript & jQuery
-        level: 60%
+      - name: <i class="fas fa-star"></i><i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i>
 
       - name: C#, ASP.NET, ORM
-        level: 25%
+      - name: <i class="fas fa-star"></i><i class="fas fa-star"></i> <i class="fas fa-star"></i> 
 
       - name: Angular
-        level: 10%
+      - name: <i class="fas fa-star"></i><i class="fas fa-star"></i>
 
       - name: SEO & Google Analytics
-        level: 90%
+      - name: <i class="fas fa-star"></i><i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> <i class="fas fa-star"></i> 
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
