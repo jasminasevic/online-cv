@@ -86,22 +86,22 @@ skills:
     toolset:
 
       - name: HTML5 & CSS3 
-      - name: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i> <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-o"></i><i class="fas fa-star-o"></i><i class="fas fa-star-o"></i>
+      - name: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i> <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
 
       - name: PHP, Laravel, MySQL
-      - name: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-o"></i><i class="fas fa-star-o"></i><i class="fas fa-star-o"></i><i class="fas fa-star-o"></i>
+      - name: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
 
       - name: Javascript & jQuery
-      - name: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-o"></i><i class="fas fa-star-o"></i><i class="fas fa-star-o"></i><i class="fas fa-star-o"></i><i class="fas fa-star-o"></i>
+      - name: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
 
       - name: C#, ASP.NET, ORM
-      - name: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-o"></i><i class="fas fa-star-o"></i><i class="fas fa-star-o"></i><i class="fas fa-star-o"></i><i class="fas fa-star-o"></i><i class="fas fa-star-o"></i><i class="fas fa-star-o"></i> 
+      - name: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i> 
 
       - name: Angular
-      - name: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-o"></i><i class="fas fa-star-o"></i><i class="fas fa-star-o"></i><i class="fas fa-star-o"></i><i class="fas fa-star-o"></i><i class="fas fa-star-o"></i><i class="fas fa-star-o"></i><i class="fas fa-star-o"></i>
+      - name: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
 
       - name: SEO & Google Analytics
-      - name: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-o"></i><i class="fas fa-star-o"></i><i class="fas fa-star-o"></i>
+      - name: <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i>
 
 
 footer: >
