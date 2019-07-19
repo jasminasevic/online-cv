@@ -79,27 +79,28 @@ publications:
 
     papers:
       - title: 1st prize at Code. Hackathon. Female. Namics.
-        authors: Namics Belgrade
-        conference: September 2018
+        company: Namics Belgrade
+        time: September 2018
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
+
+      - name: HTML5 & CSS3
+        level: 95%
+
       - name: PHP, Laravel, MySQL
         level: 80%
 
       - name: Javascript & jQuery
         level: 70%
 
-      - name: Angular
-        level: 20%
-
-      - name: HTML5 & CSS3
-        level: 95%
-
       - name: C#, ASP.NET, ORM
         level: 30%
+
+      - name: Angular
+        level: 20%
 
       - name: SEO & Google Analytics
         level: 90%
