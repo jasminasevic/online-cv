@@ -56,31 +56,23 @@ experiences:
 
 projects:
     title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Blog Post
+        link: "https://github.com/jasminasevic/blogpost"
+        tagline: "Made in ASP.NET, Blog Post is an API that manages blog posts, its authors, categories and tags."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Suites Hotels
+        link: "https://github.com/jasminasevic/suiteshotels"
+        tagline: "Made in Laravel, Suites Hotels is a website that provides information about Suites hotel chain."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Cocco
+        link: "https://github.com/jasminasevic/cocco"
+        tagline: "Built with procedural PHP, Cocco is a Magazine website that features articles on a several 		different topics."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Our Store
+        link: "https://github.com/jasminasevic/our-store"
+        tagline: "Built with procedural PHP, Our Store is an online platform that provide a user with all tools that 		facilitate sales."
 
 publications:
     title: Publications
