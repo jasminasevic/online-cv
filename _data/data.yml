@@ -9,6 +9,7 @@ sidebar:
     # Profile information
     name: Jasmina Šević
     tagline: Web Developer
+    avatar: profile.png
 
     # Sidebar links
     email: jasminasevic@yahoo.com
@@ -52,7 +53,7 @@ experiences:
 
     - role: SEO Specialist
       time: 2016 - Present
-      company: Widewalls.ch
+      company: IdeelArt.com
 
     - role: SEO Specialist
       time: 2016 - 2018
@@ -83,30 +84,30 @@ projects:
       - title: Around the Globe
         link: "https://github.com/jasminasevic/around-the-globe"
         tagline: "Blog that features different destinations, cultures, food, history, 
-        mountains and adventurous activities. Built with Angular7, HTML5, CSS3 and Bootstrap."
+        mountains and adventurous activities. Built with Angular7, HTML5, CSS3, and Bootstrap."
 
       - title: Niaata
         link: "https://niaata.ch"
         tagline: "Website for Niaata, a therapeutic and beauty 
-        salon located in Sion, Switzerland. Developed in HTML5, CSS3 and Bootstrap."
+        salon located in Sion, Switzerland. Developed in HTML5, CSS3, and Bootstrap."
 
       - title: Suites Hotels
         link: "https://github.com/jasminasevic/suiteshotels"
         tagline: "Suites Hotel is a website that provides information about the fictional 
-        Suites hotel chain. Back-end technologies include the Laravel and MySQL, 
-        while the front-end was built with HTML5, CSS3 and JavaScript."
+        Suites hotel chain. Back-end technologies include Laravel and MySQL, 
+        while the front-end was built with HTML5, CSS3, and JavaScript."
 
       - title: Our Store
         link: "https://github.com/jasminasevic/our-store"
         tagline: "Our Store is an online store website that provides a user with all tools that 
         facilitate sales. Back-end was built with PHP and MySQL, while the 
-        front-end was built with JavaScript, HTML5 and CSS3."
+        front-end was built with JavaScript, HTML5, and CSS3."
 
       - title: Cocco
         link: "http://jasminasevic.byethost18.com/?i=1"
         tagline: "Cocco is a magazine website that features articles on several 
         different topics. Technologies used for the back-end include PHP and MySQL, 
-        while the front-end was built with JavaScript, HTML5 and CSS3."
+        while the front-end was built with JavaScript, HTML5, and CSS3."
 
 publications:
     title: Awards
