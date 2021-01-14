@@ -17,15 +17,17 @@
   {% endif %} {% for project in projects.assignments %}
   <div class="item">
 
-    {% if !project.link %}
     <span class="project-title">
-      {{ project.title }}
+      {% if project.link %}
+      <a href="{{ project.link }}">
+        {% endif %}
+        <span> {{ project.title }} </span>
+        {% if project.link %}
+      </a>
+      {% endif %}
     </span>
-    {% endif %} {% if project.link %}
-    <span class="project-title">
-      <a href="{{ project.link }}">{{ project.title }}</a>
-    </span>
-    {% endif %} {% if project.tagline %} -
+
+    {% if project.tagline %} -
     <span class="project-tagline">{{ project.tagline }}</span>
     {% endif %}
 
