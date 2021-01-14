@@ -32,7 +32,13 @@ sidebar:
 career-profile:
     title: SUMMARY
     summary: |
-      Web developer interested in web programming with a focus on back-end web development. Previous work experience in the field of marketing, PR and journalism.
+      Junior web developer dedicated to developing and optimizing dynamic and interactive 
+      websites using technologies like PHP, Laravel, ASP.NET Core, MySQL, Angular2+, JavaScript, 
+      HTML5, and CSS3. With previous working experience in digital marketing and advanced 
+      knowledge of SEO and Google Analytics, I merge a passion for usability and user 
+      experience with technical knowledge to create efficient websites and applications. 
+      I'm currently in the final year of Web development studies at the ICT College 
+      of Vocational Studies in Belgrade. 
 
 education:
     - degree: Web programming
