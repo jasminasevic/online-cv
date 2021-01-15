@@ -76,7 +76,7 @@ projects:
 
       - title: Blog Post
         link: "https://github.com/jasminasevic/blogpost"
-        tagline: "BlogPost is a simple blog management API for writers, bloggers, 
+        tagline: "Blog Post is a simple blog management API for writers, bloggers, 
         and industry experts. It manages posts, their authors, categories, and tags. 
         Built with ASP.NET Core."
 
