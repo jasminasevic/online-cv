@@ -91,7 +91,6 @@ projects:
         salon located in Sion, Switzerland. Developed in HTML5, CSS3, and Bootstrap."
 
       - title: Suites Hotels
-        link: "https://github.com/jasminasevic/suiteshotels"
         tagline: "Suites Hotel is a website that provides information about the fictional 
         Suites hotel chain. Back-end technologies include Laravel and MySQL, 
         while the front-end was built with HTML5, CSS3, and JavaScript."
@@ -116,5 +115,5 @@ publications:
         authors: Namics Belgrade
         conference: September 2018
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+# footer: >
+#     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
