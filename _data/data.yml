@@ -83,7 +83,7 @@ projects:
       - title: Around the Globe
         link: "https://github.com/jasminasevic/around-the-globe"
         tagline: "Blog that features different destinations, cultures, food, history, 
-        mountains and adventurous activities. Built with Angular7, HTML5, CSS3, and Bootstrap."
+        mountains and adventurous activities. Built with Angular 7, HTML5, CSS3, and Bootstrap."
 
       - title: Niaata
         link: "https://niaata.ch"
