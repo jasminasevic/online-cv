@@ -31,10 +31,9 @@ career-profile:
     summary: |
       Junior web developer dedicated to developing and optimizing dynamic and interactive 
       websites using technologies like PHP, Laravel, ASP.NET Core, MySQL, Angular2+, JavaScript, 
-      HTML5, and CSS3. With previous working experience in digital marketing and advanced 
+      HTML5, and CSS3. With my previous working experience in digital marketing and advanced 
       knowledge of SEO and Google Analytics, I merge a passion for usability and user 
       experience with technical knowledge to create efficient websites and applications. 
-      I graduated in Web development studies at the ICT College of Vocational Studies in Belgrade in 2021.  
 
 education:
     - degree: Web programming
@@ -51,7 +50,7 @@ experiences:
       company: Widewalls.ch
 
     - role: SEO Specialist
-      time: 2016 - Present
+      time: 2016 - 2021
       company: IdeelArt.com
 
     - role: SEO Specialist
@@ -67,7 +66,8 @@ projects:
 
     assignments:
       - title: Theatre Guide
-        tagline: "Theatre Guide is an ongoing project that allows users to discover
+        link: "https://github.com/jasminasevic/TheatreGuide"
+        tagline: "Theatre Guide is an graduation project that allows users to discover
         the best and most popular shows in different theatres around the world. Theatres 
         can create their profile, add new shows, actors, directors, and repertoire, while users can 
         follow shows, buy tickets, and get notifications about the followed shows. 
