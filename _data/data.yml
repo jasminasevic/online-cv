@@ -29,13 +29,12 @@ sidebar:
 career-profile:
     title: SUMMARY
     summary: |
-      Marketing manager and web developer with over seven years of experience in various fields of 
-      the Internet industry. Specialized in analytics, email marketing, content marketing 
-      and SEO. Dedicated to developing and optimizing dynamic and interactive websites using 
-      technologies like PHP, Laravel, ASP.NET Core, MySQL, Angular2+, JavaScript, HTML5, and CSS3. 
-      With my working experience in digital marketing and advanced knowledge of SEO and Google Analytics,
-      I merge a passion for usability and user experience with technical knowledge to 
-      create efficient websites and applications.  
+      Web developer dedicated to developing and optimizing dynamic and interactive websites using 
+      technologies like PHP, Laravel, ASP.NET Core, Entity Framework, MySQL, Angular2+, JavaScript, 
+      HTML5, and CSS3. 
+      With my previous working experience in digital marketing and advanced knowledge of SEO and Google 
+      Analytics, I merge a passion for usability and user experience with technical knowledge to create 
+      efficient websites and applications. 
 
 education:
     - degree: Web programming
