@@ -29,12 +29,22 @@ sidebar:
 career-profile:
     title: SUMMARY
     summary: |
-      Web developer dedicated to developing and optimizing dynamic and interactive websites using 
-      technologies like PHP, Laravel, ASP.NET Core, Entity Framework, MySQL, Angular2+, JavaScript, 
-      HTML5, and CSS3. 
-      With my previous working experience in digital marketing and advanced knowledge of SEO and Google 
-      Analytics, I merge a passion for usability and user experience with technical knowledge to create 
-      efficient websites and applications. 
+    With over a decade of combined experience in software development, 
+    digital marketing, and SEO, I have honed a versatile skill set that spans 
+    technical expertise and strategic marketing prowess. In software development, 
+    I have contributed to the creation and maintenance of high-performance web 
+    applications, prioritizing scalability and reliability. In digital marketing,
+    I have led comprehensive initiatives to drive traffic and optimize conversions
+    through various channels, including lead generation, email marketing, and SEO 
+    strategies. Notably, I have played a key role in defining website features 
+    and executing A/B tests to refine user engagement strategies.
+
+  # Web developer dedicated to developing and optimizing dynamic and interactive websites using 
+  # technologies like PHP, Laravel, ASP.NET Core, Entity Framework, MySQL, Angular2+, JavaScript, 
+  # HTML5, and CSS3. 
+  # With my previous working experience in digital marketing and advanced knowledge of SEO and Google 
+  # Analytics, I merge a passion for usability and user experience with technical knowledge to create 
+  # efficient websites and applications. 
 
 education:
     - degree: Web programming
@@ -46,66 +56,125 @@ education:
       time: 2008 - 2013
 
 experiences:
+    - role: Software Developer & SME
+      time: 2022 - Ongoing
+      company: Think Big Development
+      details: Worked on development and maintenance of a PHP API-based gamification 
+      engine that can be plugged into any platform or project to add real-time engagement. 
+      Contributed to the design and development of new product features and enhancements while 
+      prioritizing high performance, scalability, and reliability. Involved in the identification 
+      and resolution of bugs and performance issues. Collaborated with product and project 
+      managers, team leads, and other developers in translating requirements 
+      into technical solutions within an agile development environment. 
+
     - role: Head of Digital Marketing
-      time: 2018 - Present
+      time: 2018 - Ongoing
       company: Widewalls.ch
+      details: Spearheaded all digital marketing endeavors, including lead generation, 
+      email marketing, SEO, and online advertising, aimed at driving website 
+      traffic and boosting conversions. Formulated strategies to enhance customer engagement 
+      and conversion rates, closely monitoring performance using various web analytics tools 
+      like Google Analytics, SemRush, SEOlyze and Hotjar, and providing comprehensive reports with a 
+      focus on measuring ROI and KPIs. Played a pivotal role in defining all new features required on the website. 
+      This involved collaborative efforts with various teams to understand user needs and 
+      business objectives, ensuring that proposed features aligned with both. Actively participated in designing and 
+      executing A/B tests and experiments to refine user engagement and retention strategies. 
+      This involved iterative testing of various elements on the website to identify 
+      and implement optimizations that enhance user experience and drive retention. Additionally, stayed abreast of the latest online 
+      marketing trends and technologies, seeking opportunities for innovation and competitive 
+      advantage. 
 
     - role: SEO Specialist
       time: 2016 - 2021
       company: IdeelArt.com
+      details: Actively drove optimization efforts to bolster the website's search engine 
+      rankings, utilizing a range of techniques. This involved conducting comprehensive 
+      website audits to rectify issues pertaining to site speed, crawlability, 
+      mobile-friendliness, and indexability. Devised and executed off-site SEO strategies 
+      to enhance the website's online authority, fostering the development of high-quality 
+      backlinks. Through continuous monitoring and analysis, identified new keyword 
+      opportunities and trends to optimize content creation and support marketing endeavors. 
+      Furthermore, implemented an array of analytics tools to track website 
+      performance, user behavior, and conversion metrics. Actively contributed to 
+      defining new features needed on the website by collaborating with diverse 
+      teams to grasp user needs and business goals, ensuring alignment between 
+      proposed features and objectives. Additionally, played an integral part 
+      in designing and implementing A/B tests and experiments to enhance user 
+      engagement and retention strategies.
 
     - role: SEO Specialist
       time: 2016 - 2018
       company: Widewalls.ch
+      details: Implemented optimization techniques to enhance the website's 
+      search engine ranking positions while conducting thorough website audits 
+      to identify and resolve issues related to site speed, crawlability, 
+      mobile-friendliness, and indexability. Played an active role in defining 
+      necessary website features through collaboration with diverse teams, 
+      ensuring alignment with user needs and business goals. Developed and executed 
+      off-site SEO strategies to increase the website's online authority 
+      and build high-quality backlinks, alongside identifying new keyword 
+      opportunities and trends to optimize content creation and support marketing 
+      initiatives. Utilized analytics tools such as SemRush, SEOlyze, 
+      Google Analytics, Google Search Console, Google Tag Manager, 
+      Hotjar, Ahrefs, Moz, Ubersuggest, Google Ad Manager, and SimilarWeb 
+      to track website performance, user behavior, and conversion metrics. 
 
     - role: Editor
       time: 2014 - 2016
       company: Widewalls.ch
+      details: Created and optimized biography articles for Widewalls artist 
+      database, spotlighting artists and their creations. Employed SEO best 
+      practices, including keyword research, meta tags, and formatting enhancements, 
+      leading to heightened visibility on Google search results. Additionally, 
+      optimized images for web usage, ensuring proper sizing, compression, and 
+      keyword tagging to enhance the website's overall SEO performance. Managed 
+      metadata for artist biography articles, maintaining accurate and keyword-rich 
+      descriptions, titles, and tags.
 
-projects:
-    title: Projects
+# projects:
+#     title: Projects
 
-    assignments:
-      - title: Theatre Guide
-        link: "https://github.com/jasminasevic/TheatreGuide"
-        tagline: "Theatre Guide is a graduation project that allows users to discover
-        the best and most popular shows in different theatres around the world. Theatres 
-        can create their profile, add new shows, actors, directors, and repertoire, while users can 
-        follow shows, buy tickets, and get notifications about the followed shows. 
-        Built with ASP.NET Core web API and Angular 10."
+#     assignments:
+#       - title: Theatre Guide
+#         link: "https://github.com/jasminasevic/TheatreGuide"
+#         tagline: "Theatre Guide is a graduation project that allows users to discover
+#         the best and most popular shows in different theatres around the world. Theatres 
+#         can create their profile, add new shows, actors, directors, and repertoire, while users can 
+#         follow shows, buy tickets, and get notifications about the followed shows. 
+#         Built with ASP.NET Core web API and Angular 10."
 
-      - title: Blog Post
-        link: "https://github.com/jasminasevic/blogpost"
-        tagline: "Blog Post is a simple blog management API for writers, bloggers, 
-        and industry experts. It manages posts, their authors, categories, and tags. 
-        Built with ASP.NET Core."
+#       - title: Blog Post
+#         link: "https://github.com/jasminasevic/blogpost"
+#         tagline: "Blog Post is a simple blog management API for writers, bloggers, 
+#         and industry experts. It manages posts, their authors, categories, and tags. 
+#         Built with ASP.NET Core."
 
-      - title: Around the Globe
-        link: "https://github.com/jasminasevic/around-the-globe"
-        tagline: "Blog that features different destinations, cultures, food, history, 
-        mountains and adventurous activities. Built with Angular 7, HTML5, CSS3, and Bootstrap."
+#       - title: Around the Globe
+#         link: "https://github.com/jasminasevic/around-the-globe"
+#         tagline: "Blog that features different destinations, cultures, food, history, 
+#         mountains and adventurous activities. Built with Angular 7, HTML5, CSS3, and Bootstrap."
 
-      - title: Niaata
-        link: "https://niaata.ch"
-        tagline: "Website for Niaata, a therapeutic and beauty 
-        salon located in Sion, Switzerland. Developed in HTML5, CSS3, and Bootstrap."
+#       - title: Niaata
+#         link: "https://niaata.ch"
+#         tagline: "Website for Niaata, a therapeutic and beauty 
+#         salon located in Sion, Switzerland. Developed in HTML5, CSS3, and Bootstrap."
 
-      - title: Suites Hotels
-        tagline: "Suites Hotel is a website that provides information about the fictional 
-        Suites hotel chain. Back-end technologies include Laravel and MySQL, 
-        while the front-end was built with HTML5, CSS3, and JavaScript."
+#       - title: Suites Hotels
+#         tagline: "Suites Hotel is a website that provides information about the fictional 
+#         Suites hotel chain. Back-end technologies include Laravel and MySQL, 
+#         while the front-end was built with HTML5, CSS3, and JavaScript."
 
-      - title: Our Store
-        link: "https://github.com/jasminasevic/our-store"
-        tagline: "Our Store is an online store website that provides a user with all tools that 
-        facilitate sales. Back-end was built with PHP and MySQL, while the 
-        front-end was built with JavaScript, HTML5, and CSS3."
+#       - title: Our Store
+#         link: "https://github.com/jasminasevic/our-store"
+#         tagline: "Our Store is an online store website that provides a user with all tools that 
+#         facilitate sales. Back-end was built with PHP and MySQL, while the 
+#         front-end was built with JavaScript, HTML5, and CSS3."
 
-      - title: Cocco
-        link: "http://jasminasevic.byethost18.com/?i=1"
-        tagline: "Cocco is a magazine website that features articles on several 
-        different topics. Technologies used for the back-end include PHP and MySQL, 
-        while the front-end was built with JavaScript, HTML5, and CSS3."
+#       - title: Cocco
+#         link: "http://jasminasevic.byethost18.com/?i=1"
+#         tagline: "Cocco is a magazine website that features articles on several 
+#         different topics. Technologies used for the back-end include PHP and MySQL, 
+#         while the front-end was built with JavaScript, HTML5, and CSS3."
 
 publications:
     title: Awards
