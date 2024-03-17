@@ -3,67 +3,69 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Jasmina Šević
-    tagline: Web Developer
-    avatar: profile.png
+  # Profile information
+  name: Jasmina Šević
+  tagline: Web Developer
+  avatar: profile.png
 
-    # Sidebar links
-    email: jasminasevic@yahoo.com
-    phone: 
-    website: 
-    linkedin: jasminasevic
-    github: jasminasevic
-    gitlab:
-    
-    languages:
-      - idiom: Serbian
-        level: Native
+  # Sidebar links
+  email: jasminasevic@yahoo.com
+  phone:
+  website:
+  linkedin: jasminasevic
+  github: jasminasevic
+  gitlab:
 
-      - idiom: English
-        level: Advanced
+  languages:
+    - idiom: Serbian
+      level: Native
+
+    - idiom: English
+      level: Advanced
 
 career-profile:
-    title: SUMMARY
-    summary: |
-      With over a decade of combined experience in software development, 
-      digital marketing, and SEO, I have honed a versatile skill set that spans 
-      technical expertise and strategic marketing prowess. In software development, 
-      I have contributed to the creation and maintenance of high-performance web 
-      applications, prioritizing scalability and reliability. In digital marketing,
-      I have led comprehensive initiatives to drive traffic and optimize conversions
-      through various channels, including lead generation, email marketing, and SEO 
-      strategies. Notably, I have played a key role in defining website features 
-      and executing A/B tests to refine user engagement strategies.
+  title: SUMMARY
+  summary: |
+    With over a decade of combined experience in software development, 
+    digital marketing, and SEO, I have honed a versatile skill set that spans 
+    technical expertise and strategic marketing prowess. In software development, 
+    I have contributed to the creation and maintenance of high-performance web 
+    applications, prioritizing scalability and reliability. In digital marketing,
+    I have led comprehensive initiatives to drive traffic and optimize conversions
+    through various channels, including lead generation, email marketing, and SEO 
+    strategies. Notably, I have played a key role in defining website features 
+    and executing A/B tests to refine user engagement strategies.
 
 education:
-    - degree: Web programming
-      university: ICT College of Applied Studies, Internet Technologies Module
-      time: 2015 - 2021
+  - degree: Web programming
+    university: ICT College of Applied Studies, Internet Technologies Module
+    time: 2015 - 2021
 
-    - degree: BA in Journalism
-      university: Faculty of Political Science, Department of Journalism and Communication Studies, University of Belgrade
-      time: 2008 - 2013
+  - degree: BA in Journalism
+    university: Faculty of Political Science, Department of Journalism and Communication Studies, University of Belgrade
+    time: 2008 - 2013
 
 experiences:
-    - role: Software Developer & SME
-      time: 2022 - Ongoing
-      company: Think Big Development
-      details: Worked on development and maintenance of a PHP API-based gamification 
+  - role: Software Developer & SME
+    time: 2022 - Ongoing
+    company: Think Big Development
+    details: |
+      Worked on development and maintenance of a PHP API-based gamification 
       engine that can be plugged into any platform or project to add real-time engagement. 
       Contributed to the design and development of new product features and enhancements while 
       prioritizing high performance, scalability, and reliability. Involved in the identification 
       and resolution of bugs and performance issues. Collaborated with product and project 
       managers, team leads, and other developers in translating requirements 
-      into technical solutions within an agile development environment. 
+      into technical solutions within an agile development environment.
 
-    - role: Head of Digital Marketing
-      time: 2018 - Ongoing
-      company: Widewalls.ch
-      details: Spearheaded all digital marketing endeavors, including lead generation, 
+  - role: Head of Digital Marketing
+    time: 2018 - Ongoing
+    company: Widewalls.ch
+    details: |
+      Spearheaded all digital marketing endeavors, including lead generation, 
       email marketing, SEO, and online advertising, aimed at driving website 
       traffic and boosting conversions. Formulated strategies to enhance customer engagement 
       and conversion rates, closely monitoring performance using various web analytics tools 
@@ -75,12 +77,13 @@ experiences:
       This involved iterative testing of various elements on the website to identify 
       and implement optimizations that enhance user experience and drive retention. Additionally, stayed abreast of the latest online 
       marketing trends and technologies, seeking opportunities for innovation and competitive 
-      advantage. 
+      advantage.
 
-    - role: SEO Specialist
-      time: 2016 - 2021
-      company: IdeelArt.com
-      details: Actively drove optimization efforts to bolster the website's search engine 
+  - role: SEO Specialist
+    time: 2016 - 2021
+    company: IdeelArt.com
+    details: |
+      Actively drove optimization efforts to bolster the website's search engine 
       rankings, utilizing a range of techniques. This involved conducting comprehensive 
       website audits to rectify issues pertaining to site speed, crawlability, 
       mobile-friendliness, and indexability. Devised and executed off-site SEO strategies 
@@ -92,10 +95,11 @@ experiences:
       Ahrefs, Moz, Ubersuggest, Google Ad Manager, and SimilarWeb to track website 
       performance, user behavior, and conversion metrics.
 
-    - role: SEO Specialist
-      time: 2016 - 2018
-      company: Widewalls.ch
-      details: Implemented optimization techniques to enhance the website's 
+  - role: SEO Specialist
+    time: 2016 - 2018
+    company: Widewalls.ch
+    details: |
+      Implemented optimization techniques to enhance the website's 
       search engine ranking positions while conducting thorough website audits 
       to identify and resolve issues related to site speed, crawlability, 
       mobile-friendliness, and indexability. Played an active role in defining 
@@ -107,12 +111,13 @@ experiences:
       initiatives. Utilized analytics tools such as SemRush, SEOlyze, 
       Google Analytics, Google Search Console, Google Tag Manager, 
       Hotjar, Ahrefs, Moz, Ubersuggest, Google Ad Manager, and SimilarWeb 
-      to track website performance, user behavior, and conversion metrics. 
+      to track website performance, user behavior, and conversion metrics.
 
-    - role: Editor
-      time: 2014 - 2016
-      company: Widewalls.ch
-      details: Created and optimized biography articles for Widewalls artist 
+  - role: Editor
+    time: 2014 - 2016
+    company: Widewalls.ch
+    details: |
+      Created and optimized biography articles for Widewalls artist 
       database, spotlighting artists and their creations. Employed SEO best 
       practices, including keyword research, meta tags, and formatting enhancements, 
       leading to heightened visibility on Google search results. Additionally, 
@@ -128,51 +133,50 @@ experiences:
 #       - title: Theatre Guide
 #         link: "https://github.com/jasminasevic/TheatreGuide"
 #         tagline: "Theatre Guide is a graduation project that allows users to discover
-#         the best and most popular shows in different theatres around the world. Theatres 
-#         can create their profile, add new shows, actors, directors, and repertoire, while users can 
-#         follow shows, buy tickets, and get notifications about the followed shows. 
+#         the best and most popular shows in different theatres around the world. Theatres
+#         can create their profile, add new shows, actors, directors, and repertoire, while users can
+#         follow shows, buy tickets, and get notifications about the followed shows.
 #         Built with ASP.NET Core web API and Angular 10."
 
 #       - title: Blog Post
 #         link: "https://github.com/jasminasevic/blogpost"
-#         tagline: "Blog Post is a simple blog management API for writers, bloggers, 
-#         and industry experts. It manages posts, their authors, categories, and tags. 
+#         tagline: "Blog Post is a simple blog management API for writers, bloggers,
+#         and industry experts. It manages posts, their authors, categories, and tags.
 #         Built with ASP.NET Core."
 
 #       - title: Around the Globe
 #         link: "https://github.com/jasminasevic/around-the-globe"
-#         tagline: "Blog that features different destinations, cultures, food, history, 
+#         tagline: "Blog that features different destinations, cultures, food, history,
 #         mountains and adventurous activities. Built with Angular 7, HTML5, CSS3, and Bootstrap."
 
 #       - title: Niaata
 #         link: "https://niaata.ch"
-#         tagline: "Website for Niaata, a therapeutic and beauty 
+#         tagline: "Website for Niaata, a therapeutic and beauty
 #         salon located in Sion, Switzerland. Developed in HTML5, CSS3, and Bootstrap."
 
 #       - title: Suites Hotels
-#         tagline: "Suites Hotel is a website that provides information about the fictional 
-#         Suites hotel chain. Back-end technologies include Laravel and MySQL, 
+#         tagline: "Suites Hotel is a website that provides information about the fictional
+#         Suites hotel chain. Back-end technologies include Laravel and MySQL,
 #         while the front-end was built with HTML5, CSS3, and JavaScript."
 
 #       - title: Our Store
 #         link: "https://github.com/jasminasevic/our-store"
-#         tagline: "Our Store is an online store website that provides a user with all tools that 
-#         facilitate sales. Back-end was built with PHP and MySQL, while the 
+#         tagline: "Our Store is an online store website that provides a user with all tools that
+#         facilitate sales. Back-end was built with PHP and MySQL, while the
 #         front-end was built with JavaScript, HTML5, and CSS3."
 
 #       - title: Cocco
 #         link: "http://jasminasevic.byethost18.com/?i=1"
-#         tagline: "Cocco is a magazine website that features articles on several 
-#         different topics. Technologies used for the back-end include PHP and MySQL, 
+#         tagline: "Cocco is a magazine website that features articles on several
+#         different topics. Technologies used for the back-end include PHP and MySQL,
 #         while the front-end was built with JavaScript, HTML5, and CSS3."
 
 publications:
-    title: Awards
+  title: Awards
 
-    papers:
-      - title: 1st prize at "Code. Hackathon. Female. Namics." hackathon.
-        authors: Namics Belgrade
-        conference: September 2018
-
+  papers:
+    - title: 1st prize at "Code. Hackathon. Female. Namics." hackathon.
+      authors: Namics Belgrade
+      conference: September 2018
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
