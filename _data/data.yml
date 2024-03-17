@@ -8,7 +8,7 @@ sidebar:
 
   # Profile information
   name: Jasmina Šević
-  tagline: Web Developer
+  tagline: Software Developer
   avatar: profile.png
 
   # Sidebar links
@@ -63,7 +63,7 @@ experiences:
         - Performed testing and debugging of the application, identifying and 
           resolving bugs, performance issues, and other technical glitches.
 
-  - role: Head of Digital Marketing
+  - role: Chief Marketing Officer
     time: 2018 - Ongoing
     company: Widewalls.ch
     details: |
@@ -77,7 +77,7 @@ experiences:
           involving collaborative efforts with various teams to understand user 
           needs and business objectives, ensuring that proposed features aligned with both. 
         - Provided comprehensive reports with a focus on measuring ROI and KPIs for 
-          B2B and B2C models of the company. 
+          both B2B and B2C models of the company. 
         - Actively participated in designing and executing A/B tests and experiments to 
           refine user engagement and retention strategies, involving iterative 
           testing of various elements on the website to identify and implement 
