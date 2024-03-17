@@ -29,22 +29,15 @@ sidebar:
 career-profile:
     title: SUMMARY
     summary: |
-    With over a decade of combined experience in software development, 
-    digital marketing, and SEO, I have honed a versatile skill set that spans 
-    technical expertise and strategic marketing prowess. In software development, 
-    I have contributed to the creation and maintenance of high-performance web 
-    applications, prioritizing scalability and reliability. In digital marketing,
-    I have led comprehensive initiatives to drive traffic and optimize conversions
-    through various channels, including lead generation, email marketing, and SEO 
-    strategies. Notably, I have played a key role in defining website features 
-    and executing A/B tests to refine user engagement strategies.
-
-  # Web developer dedicated to developing and optimizing dynamic and interactive websites using 
-  # technologies like PHP, Laravel, ASP.NET Core, Entity Framework, MySQL, Angular2+, JavaScript, 
-  # HTML5, and CSS3. 
-  # With my previous working experience in digital marketing and advanced knowledge of SEO and Google 
-  # Analytics, I merge a passion for usability and user experience with technical knowledge to create 
-  # efficient websites and applications. 
+      With over a decade of combined experience in software development, 
+      digital marketing, and SEO, I have honed a versatile skill set that spans 
+      technical expertise and strategic marketing prowess. In software development, 
+      I have contributed to the creation and maintenance of high-performance web 
+      applications, prioritizing scalability and reliability. In digital marketing,
+      I have led comprehensive initiatives to drive traffic and optimize conversions
+      through various channels, including lead generation, email marketing, and SEO 
+      strategies. Notably, I have played a key role in defining website features 
+      and executing A/B tests to refine user engagement strategies.
 
 education:
     - degree: Web programming
@@ -94,13 +87,10 @@ experiences:
       to enhance the website's online authority, fostering the development of high-quality 
       backlinks. Through continuous monitoring and analysis, identified new keyword 
       opportunities and trends to optimize content creation and support marketing endeavors. 
-      Furthermore, implemented an array of analytics tools to track website 
-      performance, user behavior, and conversion metrics. Actively contributed to 
-      defining new features needed on the website by collaborating with diverse 
-      teams to grasp user needs and business goals, ensuring alignment between 
-      proposed features and objectives. Additionally, played an integral part 
-      in designing and implementing A/B tests and experiments to enhance user 
-      engagement and retention strategies.
+      Furthermore, implemented an array of analytics tools such as SemRush, SEOlyze, 
+      Google Analytics, Google Search Console, Google Tag Manager, Hotjar, 
+      Ahrefs, Moz, Ubersuggest, Google Ad Manager, and SimilarWeb to track website 
+      performance, user behavior, and conversion metrics.
 
     - role: SEO Specialist
       time: 2016 - 2018
