@@ -18,8 +18,13 @@
         <div class="time">{{ experience.time }}</div>
       </div>
       <!--//upper-row-->
-
-      <div class="company">{{ experience.company }}</div>
+      {% if experience.link %}
+      <a href="{{ experience.link }}">
+        {% endif %}
+        <div class="company">{{ experience.company }}</div>
+        {% if experience.link %}
+      </a>
+      {% endif %}
 
     </div>
     <!--//meta-->
