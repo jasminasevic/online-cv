@@ -46,6 +46,10 @@ education:
     university: Faculty of Political Science, Department of Journalism and Communication Studies, University of Belgrade
     time: 2008 - 2013
 
+interests:
+  - item: 1st prize at "Code. Hackathon. Female. Namics." hackathon.
+    level: Namics Belgrade (September 2018)
+
 experiences:
   - role: Software Developer & SME
     time: 2022 - Ongoing
@@ -99,7 +103,7 @@ experiences:
         ensuring seamless UX.
       - Actively contributed to the design and execution of A/B tests and experiments, 
         leveraging insights to introduce new features and enhance user engagement 
-        and retention strategies. 
+        and retention. 
       - Implemented an array of analytics tools to track website 
         performance, user behavior, and conversion metrics.
 
@@ -121,7 +125,7 @@ experiences:
           opportunities and trends to optimize content creation and support marketing 
           initiatives. 
         - Utilized analytics tools 
-          to track website performance, user behavior, and conversion metrics.
+          to track website performance, user behavior, and conversions.
 
   - role: Editor
     time: 2014 - 2016
@@ -183,12 +187,12 @@ experiences:
 #         different topics. Technologies used for the back-end include PHP and MySQL,
 #         while the front-end was built with JavaScript, HTML5, and CSS3."
 
-publications:
-  title: Awards
+# publications:
+#   title: Awards
 
-  papers:
-    - title: 1st prize at "Code. Hackathon. Female. Namics." hackathon.
-      authors: Namics Belgrade
-      conference: September 2018
+#   papers:
+#     - title: 1st prize at "Code. Hackathon. Female. Namics." hackathon.
+#       authors: Namics Belgrade
+#       conference: September 2018
 # footer: >
 #     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
