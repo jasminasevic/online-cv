@@ -26,6 +26,9 @@ sidebar:
     - idiom: English
       level: Advanced
 
+  interests:
+    - item: 1st prize at "Code. Hackathon. Female. Namics." hackathon.
+
 career-profile:
   title: SUMMARY
   summary: |
@@ -45,9 +48,6 @@ education:
   - degree: BA in Journalism
     university: Faculty of Political Science, Department of Journalism and Communication Studies, University of Belgrade
     time: 2008 - 2013
-
-interests:
-  - item: 1st prize at "Code. Hackathon. Female. Namics." hackathon.
 
 experiences:
   - role: Software Developer & SME
