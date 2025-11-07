@@ -64,19 +64,14 @@ experiences:
         - Contributed to the design and development of new product 
           features and enhancements wth focus on scalability, reliability, 
           and high performance.
-        - Worked closely with B2B clients to analyze their needs and tailor solutions 
-          to meet their business objectives while actively contributing 
-          to high-level design conversations.
         - Collaborated with B2B clients to gather business requirements and translate 
           them into actionable user stories, ensuring alignment with client goals and 
           product vision.
         - Partnered with game designers to define target audiences, product objectives, 
           and feature specifications, ensuring technical feasibility and high engagement.
-        - Conducted API testing and debugging to ensure stability and seamless integration, 
-          proactively identifying and resolving bugs and performance issues.
-        - Created and maintained Postman collections to automate testing of key user journeys 
-          and validate API behavior across multiple environments, ensuring consistent 
-          and reliable product performance.
+        - Conducted API testing and debugging, created and maintained Postman collections 
+          to automate testing of key user journeys and validate API behavior across 
+          multiple environments, ensuring consistent and reliable product performance.
         - Supported product analytics efforts by querying databases and validating data 
           insights used for prioritization and decision-making.
 
@@ -130,19 +125,19 @@ experiences:
         - Tracked performance metrics and analyzed user data to 
           measure conversion improvements and ROI impact.
 
-  - role: Editor
-    time: 2014 - 2016
-    company: Widewalls.ch
-    link: https://www.widewalls.ch/
-    details: |
-      Created and optimized biography articles for Widewalls artist 
-      database, spotlighting artists and their works. 
-        - Applied SEO best practices, including keyword research, meta tags, and 
-          formatting, increasing visibility on Google search results.
-        - Optimized images for web, including sizing, compression, and 
-          keyword tagging to enhance overall SEO performance. 
-        - Managed metadata for artist articles, maintaining accurate 
-          and keyword-rich descriptions, titles, and tags.
+  # - role: Editor
+  #   time: 2014 - 2016
+  #   company: Widewalls.ch
+  #   link: https://www.widewalls.ch/
+  #   details: |
+  #     Created and optimized biography articles for Widewalls artist
+  #     database, spotlighting artists and their works.
+  #       - Applied SEO best practices, including keyword research, meta tags, and
+  #         formatting, increasing visibility on Google search results.
+  #       - Optimized images for web, including sizing, compression, and
+  #         keyword tagging to enhance overall SEO performance.
+  #       - Managed metadata for artist articles, maintaining accurate
+  #         and keyword-rich descriptions, titles, and tags.
 
 # projects:
 #     title: Projects
