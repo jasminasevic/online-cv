@@ -36,11 +36,12 @@ career-profile:
     Experienced professional with over a decade of expertise in software development, 
     product management, and digital marketing. Played a key role in the creation, 
     maintenance, and feature definition of high-performance web applications, 
-    while leading initiatives to drive traffic and optimize conversions. 
-    Proficient in defining website features, executing A/B tests and 
-    fostering cross-functional collaboration. 
-    Seeking a new role in Product Management to apply a diverse skill set 
-    and passion for innovation.
+    leading initiatives to drive user engagement and optimize conversions. Proficient in 
+    defining product roadmaps, managing backlogs, writing user stories, and executing 
+    A/B tests within Agile environments. Skilled in Postman, API workflows, and 
+    cross-functional collaboration. Seeking a Product Owner role to apply a diverse 
+    technical and strategic skill set, strong analytical mindset, and passion for 
+    building user-centered digital products.
 
 education:
   - degree: Web programming
@@ -57,19 +58,27 @@ experiences:
     company: Think Big Development
     link: https://thinkbig.dev/
     details: |
-      Worked on development and maintenance of a PHP API-based gamification 
-      engine that can be plugged into any platform or project to add real-time 
-      engagement. 
+      Worked on development and maintenance of an API-based gamification 
+      engine that can be plugged into any platform to enable real-time 
+      engagement and player retention. 
         - Contributed to the design and development of new product 
-          features and enhancements while prioritizing high performance, 
-          scalability, and reliability. 
+          features and enhancements wth focus on scalability, reliability, 
+          and high performance.
         - Worked closely with B2B clients to analyze their needs and tailor solutions 
           to meet their business objectives while actively contributing 
           to high-level design conversations.
-        - Collaborated with Game Designers to define target audiences, 
-          and convert game concepts and loops into practical technical solutions.
-        - Performed testing and debugging of the application, identifying and 
-          resolving bugs, performance issues, and other technical glitches.
+        - Collaborated with B2B clients to gather business requirements and translate 
+          them into actionable user stories, ensuring alignment with client goals and 
+          product vision.
+        - Partnered with game designers to define target audiences, product objectives, 
+          and feature specifications, ensuring technical feasibility and high engagement.
+        - Conducted API testing and debugging to ensure stability and seamless integration, 
+          proactively identifying and resolving bugs and performance issues.
+        - Created and maintained Postman collections to automate testing of key user journeys 
+          and validate API behavior across multiple environments, ensuring consistent 
+          and reliable product performance.
+        - Supported product analytics efforts by querying databases and validating data 
+          insights used for prioritization and decision-making.
 
   - role: Product Owner
     time: 2018 - 2024
@@ -77,36 +86,31 @@ experiences:
     link: https://www.widewalls.ch/
     details: |
       Owned the digital marketing strategy and product features, 
-      managing the backlog to ensure alignment with business goals, 
-      prioritizing tasks, and collaborating with cross-functional teams 
-      to deliver high-quality results on schedule.
-        - Defined and prioritized key product features required on the platform, 
-          ensuring they met business objectives and user needs, 
-          while coordinating with stakeholders to drive development and ensure timely delivery.
-        - Drove lead generation efforts, optimized conversion rates, 
-          and aligned marketing initiatives with broader business objectives 
-          to maximize growth and engagement.
+      managing the backlog to ensure alignment with business objectives 
+      and stakeholder priorities.
+        - Defined, prioritized, and refined platform features and enhancements, 
+          balancing business value, user needs, and technical feasibility.
+        - Collaborated with engineering, design, and marketing teams to translate 
+          business goals into detailed user stories and product requirements.
         - Provided comprehensive reports with a focus on measuring ROI and KPIs for 
           both B2B and B2C models of the company. 
-        - Formulated approaches to improve customer engagement 
-          and conversion rates, closely monitoring performance using various web analytics tools 
-          like Google Analytics, Google Search Console, SemRush, SEOlyze and Hotjar.
+        - Drove lead generation and customer engagement initiatives using data 
+          insights from Google Analytics, Search Console, Semrush, and Hotjar..
 
   - role: Product Specialist
     time: 2016 - 2021
     company: IdeelArt.com
     link: https://www.ideelart.com/
     details: |
-      Worked closely with the development team to define and implement new features and 
-      technical SEO practices, ensuring optimal website performance and visibility. 
+      Worked with the development team to define and implement new product features 
+      and technical SEO practices that improved platform performance and UX. 
       - Led optimization initiatives to improve the website's search engine rankings, 
         employing diverse techniques for maximum impact. 
-      - Conducted comprehensive website audits to identify and address issues 
-        pertaining to site speed, crawlability, mobile-friendliness, and indexability, 
-        ensuring seamless UX.
-      - Actively contributed to the design and execution of A/B tests and experiments, 
-        leveraging insights to introduce new features and enhance user engagement 
-        and retention. 
+      - Conducted comprehensive site audits to identify and resolve performance issues, 
+        ensuring scalability, mobile responsiveness, and accessibility.
+      - Designed and executed A/B tests to optimize user retention and conversion rates.
+      - Collaborated with stakeholders to translate insights into product enhancements 
+        and measurable KPIs. 
       - Implemented an array of analytics tools to track website 
         performance, user behavior, and conversion metrics.
 
@@ -115,20 +119,16 @@ experiences:
     company: Widewalls.ch
     link: https://www.widewalls.ch/
     details: |
-      Played an active role in defining 
-      necessary website features through collaboration with diverse teams, 
-      ensuring alignment with user needs and business goals. 
-        - Implemented optimization techniques to enhance the website's 
-          search engine ranking positions while conducting thorough website audits 
-          to identify and resolve issues related to site speed, crawlability, 
-          mobile-friendliness, and indexability. 
-        - Developed and executed 
-          off-site SEO strategies to increase the website's online authority 
-          and build high-quality backlinks, alongside identifying new keyword 
-          opportunities and trends to optimize content creation and support marketing 
-          initiatives. 
-        - Utilized analytics tools 
-          to track website performance, user behavior, and conversions.
+      Collaborated with cross-functional teams to define and prioritize website 
+      features aligned with user needs and long-term business strategy. 
+        - Implemented optimization techniques to improve visibility, speed, and 
+          usability, ensuring top search engine performance. 
+        - Contributed to roadmap discussions by identifying new opportunities 
+          for feature development and user growth.
+        - Developed off-site SEO strategies and keyword targeting initiatives, 
+          enhancing product visibility and authority. 
+        - Tracked performance metrics and analyzed user data to 
+          measure conversion improvements and ROI impact.
 
   - role: Editor
     time: 2014 - 2016
@@ -136,14 +136,13 @@ experiences:
     link: https://www.widewalls.ch/
     details: |
       Created and optimized biography articles for Widewalls artist 
-      database, spotlighting artists and their creations. 
-        - Applied SEO best 
-          practices, including keyword research, meta tags, and formatting enhancements, 
-          leading to heightened visibility on Google search results. 
-        - Optimized images for web usage, ensuring proper sizing, compression, and 
-          keyword tagging to enhance the website's overall SEO performance. 
-        - Managed metadata for artist biography articles, maintaining accurate and keyword-rich 
-          descriptions, titles, and tags.
+      database, spotlighting artists and their works. 
+        - Applied SEO best practices, including keyword research, meta tags, and 
+          formatting, increasing visibility on Google search results.
+        - Optimized images for web, including sizing, compression, and 
+          keyword tagging to enhance overall SEO performance. 
+        - Managed metadata for artist articles, maintaining accurate 
+          and keyword-rich descriptions, titles, and tags.
 
 # projects:
 #     title: Projects
